@@ -2,11 +2,7 @@
 
 ## PLANT-AI [Recognition of Plant Diseases by Leaf Image Classification]
 
-### <a href="https://plant49-ai.herokuapp.com/" target="_blank">https://plant49-ai.herokuapp.com/</a>
-
-## <img src="./Assets/web.gif" alt="demo"/>
-
- </div>
+</div>
 
 ## Description
 
@@ -55,7 +51,7 @@ This process for building a model which can detect the disease assocaited with t
 
   <img src="./Assets/models.png" alt="models" />
 
-All the version with code can be seen in `jovian.ml` (https://jovian.ml/soumyajit4419/course-project-plant-disease-classification)
+Credits: [Soumyajit](https://github.com/soumyajit4419)All the version with code can be seen in `jovian.ml` (https://jovian.ml/soumyajit4419/course-project-plant-disease-classification)
 <br/>
 
 ## Details about the model
@@ -81,10 +77,6 @@ All the version with code can be seen in `jovian.ml` (https://jovian.ml/soumyaji
 ## License
 
 This project is Licensed under `MIT`
-
-## Explanation
-
-`To understand the code :` You can find the complete explanation to the code in [Article](https://medium.com/@soumyajit4419/plant-ai-c8fc95ed90e6?source=friends_link&sk=4707825cbaefa2dcaaa92d0e3ed5de01)
 
 ### Credits
 
